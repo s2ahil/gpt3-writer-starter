@@ -318,6 +318,7 @@ textarea {
     justify-content: flex-start;
     flex-shrink: 0;
     transform: none;
+    
 }
 
 .output-content p {
@@ -413,3 +414,4 @@ textarea {
         transform: rotate(360deg);
     }
 }
+
